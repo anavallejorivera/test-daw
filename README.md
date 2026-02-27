@@ -1,10 +1,10 @@
-# 📚 Test de examenes de DAW Inglés | Programación | Ampliación de planificación de empresas
+# 📚 Test de examenes de DAW 
 
-Aplicación interactiva de test con React + Tailwind CSS para estudiar las Unidades 1-7 de Ampliacion y planificacion de empresas.
+Aplicación interactiva de test con React + Tailwind CSS para estudiar las autoevaluaciones de las asignaturas Inglés | Programación | Ampliación de planificación de empresas.
 
 ## 🚀 Características
 
-✨ **7 Exámenes completos** (Semestral + Unidades 1-6)
+✨ **Exámenes completos** (Semestral + Unidades)
 🎯 **Sistema de comprobación** con explicaciones detalladas
 📊 **Resultados visuales** con estadísticas y porcentaje
 🎨 **Diseño moderno** con Tailwind CSS
