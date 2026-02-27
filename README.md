@@ -147,7 +147,7 @@ Este proyecto es de uso educativo libre.
 
 ## ✨ Créditos
 
-Desarrollado con ❤️ usando React y Tailwind CSS
+Desarrollado usando React y Tailwind CSS
 
 ---
 
