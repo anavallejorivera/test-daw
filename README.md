@@ -1,4 +1,4 @@
-# 📚 Test de Ampliacion y flanificacion de empresas
+# 📚 Test de examenes de DAW Inglés | Programación | Ampliación de planificación de empresas
 
 Aplicación interactiva de test con React + Tailwind CSS para estudiar las Unidades 1-7 de Ampliacion y planificacion de empresas.
 
