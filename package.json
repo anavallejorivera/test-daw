@@ -1,7 +1,7 @@
 {
   "name": "exam-test-app",
   "version": "1.0.0",
-  "description": "Aplicación de test para Ampliación de planificación de empresas",
+  "description": "Aplicación de test",
   "private": true,
   "scripts": {
     "dev": "vite",
