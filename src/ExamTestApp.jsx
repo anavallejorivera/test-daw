@@ -1619,19 +1619,26 @@ const ExamTestApp = () => {
           ]
         },
 
-        unidad4: {
+         unidad4: {
           name: "Unidad 4: Elementos",
           questions: [
-            {"q": "Estos, continue, default, else y try, son:", "options": ["Palabras reservadas", "Notaciones", "Constantes", "Secuencias"], "correct": 0, "explanation": "La respuesta correcta es A."},
+            {"q": "Estos, continue, default, else y try, son:", "options": ["Palabras reservadas", "Notaciones", "Constantes", "Secuencias"], "correct": 0, "explanation": "La respuesta correcta es A. Los términos continue, default, else y try forman parte de la lista de palabras reservadas del lenguaje de programación Java. Estas palabras se caracterizan por tener un significado propio y específico dentro del lenguaje, por lo que su función ya está predefinida y no pueden ser utilizadas como identificadores (como nombres para variables, métodos, clases, etc.) al momento de escribir el código"},
             {"q": "Estos, <, %, !, y ||, son:", "options": ["Constantes", "Tipos de datos", "Operadores", "Variables"], "correct": 2, "explanation": "La respuesta correcta es C."},
             {"q": "Estos, char, int, boolean y double, son:", "options": ["Constantes", "Tipos de datos primitivos", "Operadores", "Ninguna"], "correct": 1, "explanation": "La respuesta correcta es B."},
-            {"q": "Las palabras reservadas son:", "options": ["Palabras con significado propio", "Palabras que permiten operaciones", "Palabras que mantienen valor", "Ninguna"], "correct": 0, "explanation": "La respuesta correcta es A."},
+            {"q": "Las palabras reservadas son:", "options": ["Palabras con significado propio, por lo que no se pueden utilizar como identificadores en los programas", "Palabras que permiten realizar operaciones con las variables explicadas anteriormente", "Palabras que, a lo largo de la vida del programa, mantienen un mismo valor.", "Ninguna de las anteriores"], "correct": 0, "explanation": "La respuesta correcta es A. Las palabras reservadas (como por ejemplo abstract, class, if, while, entre otras) tienen una función ya predefinida dentro del lenguaje de programación, por lo que no está permitido usarlas para nombrar elementos creados por el programador (identificadores) como variables, clases o métodos.
+A modo de aclaración sobre las demás opciones:
+    La opción B define a los operadores.
+    La opción C define a las constantes"},
             {"q": "Los comentarios pueden iniciarse con:", "options": ["//", "/*", "/**", "Todas"], "correct": 3, "explanation": "La respuesta correcta es D."},
             {"q": "Los datos primitivos al realizar casting:", "options": ["Declarados y no declarados", "Implícitos y explícitos", "Autoboxing y unboxing", "Compilatorio"], "correct": 1, "explanation": "La respuesta correcta es B."},
             {"q": "Palabras que cuentan con su propio significado:", "options": ["Constantes", "Identificadores", "String", "Ninguna"], "correct": 3, "explanation": "La respuesta correcta es D."},
             {"q": "Sistemas de signos destinado a representar:", "options": ["lowercase", "UpperCamelCase", "Datos primitivos", "Notación"], "correct": 3, "explanation": "La respuesta correcta es D."},
             {"q": "Un identificador puede emplear el símbolo:", "options": ["&", "%", "$", "#"], "correct": 2, "explanation": "La respuesta correcta es C."},
-            {"q": "Un paquete:", "options": ["Identifica las clases", "Mantiene independientes", "Puede controlar visibilidad", "Todas"], "correct": 3, "explanation": "La respuesta correcta es D."}
+            {"q": "Un paquete paquetes:", "options": ["Identifica las clases cuyas características sean comunes y las agrupa.", "Mantiene independientes las declaraciones que son realizadas en un paquete de las que existen en otros paquetes.", "Puede controlar la visibilidad de los elementos contenidos en él.", "Todas las anteriores son correctas."], "correct": 3, "explanation": "La respuesta correcta es D. En Java, los paquetes son un mecanismo que sirve para conseguir encapsulación y modularidad en los proyectos. Las opciones listadas describen exactamente las ventajas de este mecanismo, ya que un paquete:
+
+    Identifica las clases cuyas características sean comunes y las agrupa.
+    Mantiene independientes las declaraciones que se realizan en un paquete respecto a las que existen en otros paquetes, lo que permite utilizar los mismos identificadores (nombres) si fuera necesario.
+    Permite controlar la visibilidad de los elementos que contiene, facilitando así un mecanismo de control de acceso."}
           ]
         },
 
